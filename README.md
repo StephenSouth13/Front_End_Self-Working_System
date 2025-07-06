@@ -10,12 +10,24 @@ Quản lý toàn diện công việc, thời gian, thói quen, không gian làm 
 ## 🌟 Tính năng nổi bật
 
 - 📊 **Dashboard thông minh**: Biểu đồ tiến độ, lời chào động lực
+  >![image](https://github.com/user-attachments/assets/bc92b96f-cd34-48c8-b185-d86aea729986)
+
 - 🎯 **Quản lý công việc kiểu ClickUp**: List / Kanban / Calendar + ưu tiên + liên kết
+  >![image](https://github.com/user-attachments/assets/adb06e37-2743-4f0d-a176-31b0c5a59023)
+
 - 📅 **Lịch tích hợp**: Click chọn ngày + mã màu trực quan
+  >![image](https://github.com/user-attachments/assets/142d06f5-8d2b-4a50-96ef-8ac11c0cc305)
+
 - ⏰ **Pomodoro nổi**: Kéo thả tự do, tuỳ chỉnh thời gian học – nghỉ
+  > ![image](https://github.com/user-attachments/assets/e4656524-252d-4a33-b213-2afda50ceb55)
+
 - 🏠 **Không gian làm việc**: Công ty / Dự án / Học tập, quản lý riêng biệt
 - 👤 **Hồ sơ cá nhân**: Sửa trực tiếp, upload avatar, kỹ năng & kinh nghiệm
+  >![image](https://github.com/user-attachments/assets/97643dbc-7c9f-4974-9f81-96f030d881fe)
+
 - ⚙️ **Tùy chỉnh sâu**: Giao diện sáng/tối, ngôn ngữ, thông báo
+  >![image](https://github.com/user-attachments/assets/0fd8381e-21ac-40d9-91ed-4d7f4e1784fc)
+
 - 🌙 **Dark mode đẹp mượt**
 - 📱 **Responsive hoàn toàn**
 
