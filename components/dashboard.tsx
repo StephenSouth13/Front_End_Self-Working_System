@@ -15,6 +15,44 @@ const motivationalQuotes = [
   "Hãy tập trung vào những gì bạn có thể kiểm soát. 💪",
   "Thành công bắt đầu từ việc hành động. ⚡",
   "Hôm nay tốt hơn hôm qua, ngày mai tốt hơn hôm nay! 🌈",
+  "Dù chậm cũng không sao, miễn là bạn không dừng lại. 🐢",
+
+"Bạn mạnh mẽ hơn những gì bạn nghĩ. 🧠💪",
+
+"Từng ngày trôi qua là một cơ hội mới để bắt đầu lại. 🌅",
+"Cứ tiến lên, dù là từng bước nhỏ. 🐾",
+
+"Mỗi ngày là một món quà – hãy trân trọng nó. 🎁",
+
+"Tương lai được tạo nên từ những việc bạn làm hôm nay. ⏳",
+
+"Hãy là nguồn cảm hứng mà bạn đang tìm kiếm. 🔍✨",
+
+"Đừng đợi cơ hội, hãy tạo ra nó. 🛠️",
+
+"Niềm tin nhỏ hôm nay có thể dẫn đến điều kỳ diệu ngày mai. 🌱",
+
+"Hãy tự hào về từng nỗ lực của chính mình. 🏆",
+
+"Ánh sáng luôn chờ bạn ở cuối con đường. 🔦",
+
+"Không ai hoàn hảo – điều quan trọng là bạn không ngừng cố gắng. 💖",
+
+"Chính những điều nhỏ bé tạo nên sự khác biệt lớn. ✨",
+
+"Mỗi ngày là một trang giấy trắng – bạn là người cầm bút. ✍️",
+
+"Nụ cười là ngôn ngữ của hy vọng. 😊",
+
+"Tình yêu và sự tử tế luôn là những lựa chọn đúng đắn. 💛",
+
+"Cứ mơ đi, và hành động để giấc mơ thành hiện thực. ☁️🚶",
+
+"Dù trời có mưa, bạn vẫn có thể là cầu vồng. 🌧️🌈",
+
+"Giữ cho trái tim bạn ấm và tâm hồn bạn nhẹ. 🔥🕊️",
+
+"Một lời động viên nhỏ có thể thay đổi cả ngày của ai đó. 💌"
 ]
 
 const todayTasks = [

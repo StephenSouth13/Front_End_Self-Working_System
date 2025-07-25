@@ -5,8 +5,11 @@ import { Clock } from "lucide-react"
 
 export function LiveClock() {
   const [time, setTime] = useState(new Date())
+  const [isClient, setIsClient] = useState(false)
 
   useEffect(() => {
+    setIsClient(true)
+
     const timer = setInterval(() => {
       setTime(new Date())
     }, 1000)
@@ -31,6 +34,9 @@ export function LiveClock() {
       day: "numeric",
     })
   }
+
+  // Tránh render trên server
+  if (!isClient) return null
 
   return (
     <div className="flex items-center gap-3 p-4 bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/20 dark:to-indigo-950/20 rounded-xl border border-blue-100 dark:border-blue-800/30 backdrop-blur-sm">
