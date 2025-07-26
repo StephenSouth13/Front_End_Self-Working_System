@@ -37,7 +37,8 @@ export function FloatingStudyTimer() {
   const [dragOffset, setDragOffset] = useState({ x: 0, y: 0 })
 
   const timerRef = useRef<HTMLDivElement>(null)
-  const intervalRef = useRef<NodeJS.Timeout>()
+  const intervalRef = useRef<NodeJS.Timeout | null>(null)
+
 
   useEffect(() => {
     if (isRunning && timeLeft > 0) {
